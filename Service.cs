@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyProject
 {
-    public class Class1
+    public class Service
     {
+        public Service()
+        {
+            //do nothing
+        }
     }
 }
