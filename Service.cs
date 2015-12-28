@@ -10,7 +10,7 @@ namespace MyProject
     {
         public Service()
         {
-            //do nothing
+            Console.WriteLine("Service Started");
         }
     }
 }
